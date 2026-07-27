@@ -2,8 +2,6 @@
 
 🎓 Master's student in **Industrial Engineering** at the Norwegian University of Life Sciences (NMBU)
 
-📱 Passionate about mobile app development, UI/UX design and creating digital products.
-
 ---
 
 ## 🚀 Current Projects
