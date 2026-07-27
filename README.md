@@ -4,10 +4,10 @@
 
 ---
 
-## Current Projects
+## Current Projects:
 
-### Studentsamfunnet i Ås
-### UKA i Ås
+### --> Studentsamfunnet i Ås
+### --> UKA i Ås
 Developing the official mobile application for **Studentsamfunnet i Ås** and **UKA i Ås 2026** on both iOS and Android.
 
 ---
