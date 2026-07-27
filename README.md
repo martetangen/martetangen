@@ -27,9 +27,9 @@ Developing the official mobile application for **Studentsamfunnet i Ås** and **
 
 ## 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=martetangen&show_icons=true&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=martetangen&show_icons=true&theme=transparent&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=martetangen&layout=compact&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=martetangen&layout=compact&theme=transparent&hide_border=true)
 
 ---
 
