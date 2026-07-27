@@ -4,15 +4,15 @@
 
 ---
 
-## 🚀 Current Projects
+## Current Projects
 
-### 📲 Studentsamfunnet i Ås
-### 📲 UKA i Ås
+### Studentsamfunnet i Ås
+### UKA i Ås
 Developing the official mobile application for **Studentsamfunnet i Ås** and **UKA i Ås 2026** on both iOS and Android.
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
@@ -34,7 +34,7 @@ Developing the official mobile application for **Studentsamfunnet i Ås** and **
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - 📱 Native iOS Development (SwiftUI)
 - 🤖 Native Android Development (Jetpack Compose)
@@ -43,6 +43,6 @@ Developing the official mobile application for **Studentsamfunnet i Ås** and **
 
 ---
 
-## 📫 Connect with me
+## Connect with me
 
 [![GitHub](https://img.shields.io/badge/GitHub-martetangen-181717?style=for-the-badge&logo=github)](https://github.com/martetangen)
