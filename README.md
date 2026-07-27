@@ -26,7 +26,7 @@ Developing the official mobile application for **Studentsamfunnet i Ås** and **
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats 📈 
 
 ![](https://github-readme-stats.vercel.app/api?username=martetangen&show_icons=true&theme=transparent&hide_border=true)
 
@@ -34,7 +34,7 @@ Developing the official mobile application for **Studentsamfunnet i Ås** and **
 
 ---
 
-## Currently Learning
+## Currently Learning:
 
 - 📱 Native iOS Development (SwiftUI)
 - 🤖 Native Android Development (Jetpack Compose)
