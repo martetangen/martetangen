@@ -38,5 +38,5 @@ Developing the official mobile application for **Studentsamfunnet i Ås** and **
 ## Connect with me
 
 [![GitHub](https://img.shields.io/badge/GitHub-martetangen-181717?style=for-the-badge&logo=github)](https://github.com/martetangen)
-https://www.linkedin.com/in/marte-tangen/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marte%20Tangen-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marte-tangen/)
 
