@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Marte Tangen
 
-🎓 MSc **Industrial Economics and Technology Management**, specializing in Data Science, at the Norwegian University of Life Sciences (NMBU)
+🎓 MSc student **Industrial Economics and Technology Management**, specializing in Data Science, at the Norwegian University of Life Sciences (NMBU)
 
 ---
 
