@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Marte Tangen
 
-🎓 Master's student in **Industrial Engineering** at the Norwegian University of Life Sciences (NMBU)
+🎓 MSc **Industrial Economics and Technology Management**, specializing in Computer Science, at the Norwegian University of Life Sciences (NMBU)
 
 ---
 
