@@ -26,12 +26,13 @@ Developing the official mobile application for **Studentsamfunnet i Ås** and **
 
 ---
 
-## Currently Learning:
+## Areas of Experience:
 
-- 📱 Native iOS Development (SwiftUI)
-- 🤖 Native Android Development (Jetpack Compose)
-- ☁️ Firebase
+- 📱 Native iOS & Android Development
 - 🎨 Mobile UI/UX Design
+- ☁️ Backend Development & Firebase
+- 🚀 App Deployment & Release Management
+- 👥 Technical Project Management
 
 ---
 
